@@ -1,0 +1,330 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <Lazarus>
+    <ColorSchemes Version="6">
+      <Names Count="1">
+        <Item1 Value="Obsidian"/>
+      </Names>
+      <Globals Version="6">
+        <SchemeObsidian>
+          <ahaGutter Background="5131071"/>
+          <ahaDefault Background="3420457" Foreground="8090726"/>
+          <ahaErrorLine Background="clRed" Foreground="clWhite"/>
+          <ahaMouseLink Foreground="clBlue"/>
+          <ahaTextBlock Background="5328448"/>
+          <ahaWordGroup FrameColor="clRed"/>
+          <ahaFoldedCode Foreground="13408665" FrameColor="13408665"/>
+          <ahaLineNumber Background="5131071" Foreground="10131073"/>
+          <ahaRightMargin Foreground="clSilver"/>
+          <ahaHighlightAll Background="clYellow"/>
+          <ahaModifiedLine Background="4276020" Foreground="clLime" FrameColor="clYellow"/>
+          <ahaHighlightWord FrameColor="13421782"/>
+          <ahaLineHighlight Background="3946799"/>
+          <ahaSyncroEditCur FrameColor="clFuchsia"/>
+          <ahaExecutionPoint Background="10066380" Foreground="clBlack"/>
+          <ahaSyncroEditArea Background="16449510"/>
+          <ahaSyncroEditSync FrameColor="clRed"/>
+          <ahaCodeFoldingTree Background="4276020" Foreground="8945770"/>
+          <ahaGutterSeparator Background="4276020" Foreground="clGray"/>
+          <ahaSyncroEditOther FrameColor="clBlue"/>
+          <ahaTemplateEditCur FrameColor="clAqua"/>
+          <ahaTemplateEditSync FrameColor="clFuchsia"/>
+          <ahaEnabledBreakpoint Background="16762823" Foreground="clBlack"/>
+          <ahaIncrementalSearch Background="clBlack" Foreground="16580045"/>
+          <ahaInvalidBreakpoint Background="clGreen" Foreground="clWhite"/>
+          <ahaTemplateEditOther FrameColor="clMaroon"/>
+          <ahaUnknownBreakpoint Background="16762823" Foreground="clBlack"/>
+          <ahaDisabledBreakpoint Background="16762823" Foreground="clGray"/>
+        </SchemeObsidian>
+      </Globals>
+      <LangObjectPascal Version="6">
+        <SchemeObsidian>
+          <ahaGutter Background="clBtnFace"/>
+          <ahaTextBlock Background="10841427" Foreground="clWhite"/>
+          <ahaLineNumber Background="16053492" Foreground="13408665"/>
+          <ahaBracketMatch Background="clAqua" FrameColor="13421782"/>
+          <ahaModifiedLine Background="16053492"/>
+          <ahaLineHighlight Background="15138810"/>
+          <ahaCodeFoldingTree Background="16053492" Foreground="13408665"/>
+          <ahaGutterSeparator Background="clWhite"/>
+          <Number Foreground="30444"/>
+          <String Foreground="clWhite"/>
+          <Symbol Foreground="15000288"/>
+          <Comment Foreground="2280959" Style="fsItalic"/>
+          <Assembler Foreground="clGray"/>
+          <Directive Foreground="6539155" Style="fsBold"/>
+          <ahaDefault Background="clNone" Foreground="clNone"/>
+          <Reserved_word Foreground="12419744" Style="fsBold"/>
+        </SchemeObsidian>
+      </LangObjectPascal>
+      <LangLazarus_Form_definition Version="6">
+        <SchemeObsidian>
+          <Key Style="fsBold"/>
+          <Number Foreground="clBlue"/>
+          <String Foreground="clBlue"/>
+          <Comment Foreground="clGreen" Style="fsItalic"/>
+          <ahaGutter Background="clBtnFace"/>
+          <ahaDefault Background="clNone" Foreground="clNone"/>
+          <ahaTextBlock Background="10841427" Foreground="clWhite"/>
+          <ahaLineNumber Background="16053492" Foreground="13408665"/>
+          <ahaBracketMatch Background="clAqua" FrameColor="13421782"/>
+          <ahaModifiedLine Background="16053492"/>
+          <ahaLineHighlight Background="15138810"/>
+          <ahaCodeFoldingTree Background="16053492" Foreground="13408665"/>
+          <ahaGutterSeparator Background="clWhite"/>
+        </SchemeObsidian>
+      </LangLazarus_Form_definition>
+      <LangXML_document Version="6">
+        <SchemeObsidian>
+          <Text Foreground="clBlack" Style="fsBold"/>
+          <Comment Foreground="clGreen" Style="fsItalic"/>
+          <ahaGutter Background="clBtnFace"/>
+          <ahaDefault Background="clNone" Foreground="clNone"/>
+          <ahaTextBlock Background="10841427" Foreground="clWhite"/>
+          <Element_Name Foreground="clMaroon" Style="fsBold"/>
+          <ahaLineNumber Background="16053492" Foreground="13408665"/>
+          <CDATA_Section Foreground="clOlive" Style="fsItalic"/>
+          <Attribute_Name Foreground="clMaroon"/>
+          <ahaBracketMatch Background="clAqua" FrameColor="13421782"/>
+          <ahaModifiedLine Background="16053492"/>
+          <Attribute_Value Foreground="clNavy" Style="fsBold"/>
+          <DOCTYPE_Section Foreground="clBlue" Style="fsItalic"/>
+          <ahaLineHighlight Background="15138810"/>
+          <Entity_Reference Foreground="clBlue" Style="fsBold"/>
+          <ahaCodeFoldingTree Background="16053492" Foreground="13408665"/>
+          <ahaGutterSeparator Background="clWhite"/>
+          <Processing_Instruction Foreground="clBlue"/>
+          <Namespace_Attribute_Name Foreground="clRed"/>
+          <Namespace_Attribute_Value Foreground="clRed" Style="fsBold"/>
+        </SchemeObsidian>
+      </LangXML_document>
+      <LangHTML_document Version="6">
+        <SchemeObsidian>
+          <Asp Background="clYellow" Foreground="clBlack"/>
+          <Value Foreground="16744448"/>
+          <Comment Foreground="clGreen" Style="fsItalic"/>
+          <ahaGutter Background="clBtnFace"/>
+          <ahaDefault Background="clNone" Foreground="clNone"/>
+          <Identifier Style="fsBold"/>
+          <ahaTextBlock Background="10841427" Foreground="clWhite"/>
+          <Unknown_word Foreground="clRed" Style="fsBold"/>
+          <ahaLineNumber Background="16053492" Foreground="13408665"/>
+          <Reserved_word Foreground="clNavy" Style="fsBold"/>
+          <ahaBracketMatch Background="clAqua" FrameColor="13421782"/>
+          <ahaModifiedLine Background="16053492"/>
+          <ahaLineHighlight Background="15138810"/>
+          <Escape_ampersand Foreground="clLime" Style="fsBold"/>
+          <ahaCodeFoldingTree Background="16053492" Foreground="13408665"/>
+          <ahaGutterSeparator Background="clWhite"/>
+        </SchemeObsidian>
+      </LangHTML_document>
+      <LangC__ Version="6">
+        <SchemeObsidian>
+          <Space Foreground="clWindow"/>
+          <Number Foreground="clBlue"/>
+          <String Foreground="clBlue"/>
+          <Comment Foreground="clGreen" Style="fsItalic"/>
+          <ahaGutter Background="clBtnFace"/>
+          <Assembler Foreground="clBlack"/>
+          <ahaDefault Background="clNone" Foreground="clNone"/>
+          <ahaTextBlock Background="10841427" Foreground="clWhite"/>
+          <Preprocessor Foreground="clGreen" Style="fsItalic"/>
+          <ahaLineNumber Background="16053492" Foreground="13408665"/>
+          <Reserved_word Foreground="clNavy" Style="fsBold"/>
+          <ahaBracketMatch Background="clAqua" FrameColor="13421782"/>
+          <ahaModifiedLine Background="16053492"/>
+          <ahaLineHighlight Background="15138810"/>
+          <ahaCodeFoldingTree Background="16053492" Foreground="13408665"/>
+          <ahaGutterSeparator Background="clWhite"/>
+        </SchemeObsidian>
+      </LangC__>
+      <LangPerl Version="6">
+        <SchemeObsidian>
+          <Space Foreground="clWindow"/>
+          <Number Foreground="clBlue"/>
+          <Pragma Style="fsBold"/>
+          <String Foreground="clBlue"/>
+          <Comment Foreground="clGreen" Style="fsItalic"/>
+          <Variable Style="fsBold"/>
+          <ahaGutter Background="clBtnFace"/>
+          <ahaDefault Background="clNone" Foreground="clNone"/>
+          <ahaTextBlock Background="10841427" Foreground="clWhite"/>
+          <ahaLineNumber Background="16053492" Foreground="13408665"/>
+          <Reserved_word Foreground="clNavy" Style="fsBold"/>
+          <ahaBracketMatch Background="clAqua" FrameColor="13421782"/>
+          <ahaModifiedLine Background="16053492"/>
+          <ahaLineHighlight Background="15138810"/>
+          <ahaCodeFoldingTree Background="16053492" Foreground="13408665"/>
+          <ahaGutterSeparator Background="clWhite"/>
+        </SchemeObsidian>
+      </LangPerl>
+      <LangJava Version="6">
+        <SchemeObsidian>
+          <Space Foreground="clWindow"/>
+          <Number Foreground="clBlue"/>
+          <String Foreground="clBlue"/>
+          <Comment Foreground="clGreen" Style="fsItalic"/>
+          <ahaGutter Background="clBtnFace"/>
+          <ahaDefault Background="clNone" Foreground="clNone"/>
+          <ahaTextBlock Background="10841427" Foreground="clWhite"/>
+          <ahaLineNumber Background="16053492" Foreground="13408665"/>
+          <Documentation Foreground="clGreen" Style="fsItalic"/>
+          <Reserved_word Foreground="clNavy" Style="fsBold"/>
+          <ahaBracketMatch Background="clAqua" FrameColor="13421782"/>
+          <ahaModifiedLine Background="16053492"/>
+          <ahaLineHighlight Background="15138810"/>
+          <ahaCodeFoldingTree Background="16053492" Foreground="13408665"/>
+          <ahaGutterSeparator Background="clWhite"/>
+        </SchemeObsidian>
+      </LangJava>
+      <LangUNIX_Shell_Script Version="6">
+        <SchemeObsidian>
+          <Number Foreground="clBlue"/>
+          <String Foreground="clBlue"/>
+          <Comment Foreground="clGreen" Style="fsItalic"/>
+          <Variable Foreground="clPurple"/>
+          <ahaGutter Background="clBtnFace"/>
+          <ahaDefault Background="clNone" Foreground="clNone"/>
+          <ahaTextBlock Background="10841427" Foreground="clWhite"/>
+          <ahaLineNumber Background="16053492" Foreground="13408665"/>
+          <Reserved_word Foreground="clNavy" Style="fsBold"/>
+          <ahaBracketMatch Background="clAqua" FrameColor="13421782"/>
+          <ahaModifiedLine Background="16053492"/>
+          <ahaLineHighlight Background="15138810"/>
+          <ahaCodeFoldingTree Background="16053492" Foreground="13408665"/>
+          <ahaGutterSeparator Background="clWhite"/>
+        </SchemeObsidian>
+      </LangUNIX_Shell_Script>
+      <LangPython Version="6">
+        <SchemeObsidian>
+          <Float Foreground="clBlue"/>
+          <Octal Foreground="clBlue"/>
+          <Number Foreground="clBlue"/>
+          <String Foreground="clBlue"/>
+          <Comment Foreground="clGreen" Style="fsItalic"/>
+          <ahaGutter Background="clBtnFace"/>
+          <ahaDefault Background="clNone" Foreground="clNone"/>
+          <Hexadecimal Foreground="clBlue"/>
+          <SyntaxError Foreground="clRed"/>
+          <ahaTextBlock Background="10841427" Foreground="clWhite"/>
+          <ahaLineNumber Background="16053492" Foreground="13408665"/>
+          <Documentation Foreground="clGreen" Style="fsItalic"/>
+          <Reserved_word Foreground="clNavy" Style="fsBold"/>
+          <ahaBracketMatch Background="clAqua" FrameColor="13421782"/>
+          <ahaModifiedLine Background="16053492"/>
+          <ahaLineHighlight Background="15138810"/>
+          <ahaCodeFoldingTree Background="16053492" Foreground="13408665"/>
+          <ahaGutterSeparator Background="clWhite"/>
+          <Non_reserved_keyword Foreground="clNavy" Style="fsBold"/>
+          <System_functions_and_variables Style="fsBold"/>
+        </SchemeObsidian>
+      </LangPython>
+      <LangPHP Version="6">
+        <SchemeObsidian>
+          <Number Foreground="clBlue"/>
+          <String Foreground="clBlue"/>
+          <Comment Foreground="clGreen" Style="fsItalic"/>
+          <ahaGutter Background="clBtnFace"/>
+          <ahaDefault Background="clNone" Foreground="clNone"/>
+          <ahaTextBlock Background="10841427" Foreground="clWhite"/>
+          <ahaLineNumber Background="16053492" Foreground="13408665"/>
+          <Reserved_word Foreground="clNavy" Style="fsBold"/>
+          <ahaBracketMatch Background="clAqua" FrameColor="13421782"/>
+          <ahaModifiedLine Background="16053492"/>
+          <ahaLineHighlight Background="15138810"/>
+          <ahaCodeFoldingTree Background="16053492" Foreground="13408665"/>
+          <ahaGutterSeparator Background="clWhite"/>
+        </SchemeObsidian>
+      </LangPHP>
+      <LangSQL Version="6">
+        <SchemeObsidian>
+          <Number Foreground="clBlue"/>
+          <String Foreground="clBlue"/>
+          <Comment Foreground="clGreen" Style="fsItalic"/>
+          <Function Style="fsBold"/>
+          <ahaGutter Background="clBtnFace"/>
+          <Data_type Style="fsBold"/>
+          <Exception Style="fsItalic"/>
+          <ahaDefault Background="clNone" Foreground="clNone"/>
+          <ahaTextBlock Background="10841427" Foreground="clWhite"/>
+          <ahaLineNumber Background="16053492" Foreground="13408665"/>
+          <Reserved_word Foreground="clNavy" Style="fsBold"/>
+          <ahaBracketMatch Background="clAqua" FrameColor="13421782"/>
+          <ahaModifiedLine Background="16053492"/>
+          <ahaLineHighlight Background="15138810"/>
+          <Default_packages Style="fsBold"/>
+          <SQL_Plus_command Style="fsBold"/>
+          <ahaCodeFoldingTree Background="16053492" Foreground="13408665"/>
+          <ahaGutterSeparator Background="clWhite"/>
+          <Reserved_word__PL_SQL_ Style="fsBold"/>
+        </SchemeObsidian>
+      </LangSQL>
+      <LangJavascript Version="6">
+        <SchemeObsidian>
+          <Number Foreground="clBlue"/>
+          <String Foreground="clBlue"/>
+          <Comment Foreground="clGreen" Style="fsItalic"/>
+          <ahaGutter Background="clBtnFace"/>
+          <ahaDefault Background="clNone" Foreground="clNone"/>
+          <ahaTextBlock Background="10841427" Foreground="clWhite"/>
+          <ahaLineNumber Background="16053492" Foreground="13408665"/>
+          <Reserved_word Foreground="clNavy" Style="fsBold"/>
+          <ahaBracketMatch Background="clAqua" FrameColor="13421782"/>
+          <ahaModifiedLine Background="16053492"/>
+          <ahaLineHighlight Background="15138810"/>
+          <ahaCodeFoldingTree Background="16053492" Foreground="13408665"/>
+          <ahaGutterSeparator Background="clWhite"/>
+        </SchemeObsidian>
+      </LangJavascript>
+      <LangDiff_File Version="6">
+        <SchemeObsidian>
+          <ahaGutter Background="clBtnFace"/>
+          <ahaDefault Background="clNone" Foreground="clNone"/>
+          <ahaTextBlock Background="10841427" Foreground="clWhite"/>
+          <Unknown_word Style="fsItalic"/>
+          <ahaLineNumber Background="16053492" Foreground="13408665"/>
+          <Diff_New_File Background="clGreen" Style="fsBold"/>
+          <ahaBracketMatch Background="clAqua" FrameColor="13421782"/>
+          <ahaModifiedLine Background="16053492"/>
+          <Diff_Added_line Foreground="clGreen"/>
+          <ahaLineHighlight Background="15138810"/>
+          <Diff_Changed_Line Foreground="clPurple"/>
+          <Diff_Chunk_Marker Style="fsBold"/>
+          <Diff_Removed_Line Foreground="clRed"/>
+          <ahaCodeFoldingTree Background="16053492" Foreground="13408665"/>
+          <ahaGutterSeparator Background="clWhite"/>
+          <Diff_Original_File Background="clRed" Style="fsBold"/>
+          <Diff_Chunk_Line_Counts Foreground="clPurple" Style="fsBold"/>
+          <Diff_Chunk_New_Line_Count Foreground="clGreen" Style="fsBold"/>
+          <Diff_Chunk_Original_Line_Count Foreground="clRed" Style="fsBold"/>
+        </SchemeObsidian>
+      </LangDiff_File>
+      <LangMS_DOS_batch_language Version="6">
+        <SchemeObsidian>
+          <ahaGutter Background="clBtnFace"/>
+          <ahaDefault Background="clNone" Foreground="clNone"/>
+          <ahaTextBlock Background="10841427" Foreground="clWhite"/>
+          <ahaLineNumber Background="16053492" Foreground="13408665"/>
+          <ahaBracketMatch Background="clAqua" FrameColor="13421782"/>
+          <ahaModifiedLine Background="16053492"/>
+          <ahaLineHighlight Background="15138810"/>
+          <ahaCodeFoldingTree Background="16053492" Foreground="13408665"/>
+          <ahaGutterSeparator Background="clWhite"/>
+        </SchemeObsidian>
+      </LangMS_DOS_batch_language>
+      <LangINI_file Version="6">
+        <SchemeObsidian>
+          <ahaGutter Background="clBtnFace"/>
+          <ahaDefault Background="clNone" Foreground="clNone"/>
+          <ahaTextBlock Background="10841427" Foreground="clWhite"/>
+          <ahaLineNumber Background="16053492" Foreground="13408665"/>
+          <ahaBracketMatch Background="clAqua" FrameColor="13421782"/>
+          <ahaModifiedLine Background="16053492"/>
+          <ahaLineHighlight Background="15138810"/>
+          <ahaCodeFoldingTree Background="16053492" Foreground="13408665"/>
+          <ahaGutterSeparator Background="clWhite"/>
+        </SchemeObsidian>
+      </LangINI_file>
+    </ColorSchemes>
+  </Lazarus>
+</CONFIG>
